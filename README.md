@@ -1,4 +1,4 @@
-Hi, I am a mechanical engineer by education with professional experience as a software engineer, solutions architect, and security architect.
+Hi, I am a mechanical engineer by education with professional experience as a software engineer, solutions architect and full stack developer.
 
 I'm currently ✨following my dream✨ to create a useful system that people would love to use. You can find more information here: https://github.com/cargomail-org
 
